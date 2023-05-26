@@ -1,0 +1,44 @@
+@media (max-width:1024px){
+    /* about section */
+
+}
+@media (max-width:991px){
+
+    /* custom classes */
+
+    /* navbar brand */
+
+    /*banner design*/
+
+    /*carousel design*/
+    
+}
+@media (max-width:767px){
+
+    /* custom css */
+
+    /*top banner design*/
+    
+    /*story section*/
+
+    /*carousel design*/
+
+    /*newsletter*/
+
+    /*footer link*/
+
+}
+@media (max-width:767px){
+
+    /*carousel design*/   
+
+}
+@media (max-width:330px) {
+
+    /* carousel design */
+    .testimonial-section .carousel-item{
+        padding:13rem 3.125rem;
+    }
+     
+}
+        
